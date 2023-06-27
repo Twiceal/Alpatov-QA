@@ -1,9 +1,11 @@
 # Alpatov-QA
 Oleksandr Alpatov QA, QC, and SW testing artifacts
 
-My name is Oleksandr Alpatov, I am a software QA engineer with 6 more months in the SaaS segment with the web application for an Insurance agency management system with quick SDLC. 
+My name is Oleksandr Alpatov, I am a software QA engineer with 6 more months of testing experience in the SaaS sector for an Insurance agency management system (the web application) with quick SDLC. 
 
-STLC support with the Test Plan creation, Checklists for the main functions, the qase.io test management system, Jira bug tracking system.
+STLC support with the Test Plan creation, Checklists for the main functions, the TestRail and qase.io test management systems, Jira bug tracking system. Different environment configurations including BrowserStack and Lambdatest real device farms and emulators.
 
-Also, I have 20 more years as an industrial automation engineer in a wide variety of segments like Distributed Control Systems, Instrumentation, low and medium voltage power supply, and so on in metallurgical and mining industries.
+Since 2020 I have worked remotely for activities like Software Development team meetings, technical and commercial tenders in mining and mineral processing, Industrial Automation design documentation development, and Quality Control.
+
+Also, I have 20 more years as an industrial automation engineer in a wide variety of segments like Distributed Control Systems, Instrumentation, low and medium voltage power supply, ISO 9000 series Quality Control, 5S system management, and so on in metallurgical and mining industries.
 
