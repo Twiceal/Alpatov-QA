@@ -13,3 +13,4 @@ Also, I have 20 more years as an industrial automation engineer in a wide variet
 
 Different types of troubleshooting for electrical and industrial automation systems like photovoltaic; power stations with natural, blast-furnace, and coke oven gases; optical fiber single- and multi-mode; low voltage power supply; local control; distributed control.
 
+I have got a Master`s degree in electromechanical automated systems and electrical drive from Kryvyi Rih National University, Ukraine.
